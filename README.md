@@ -6,24 +6,26 @@
 Skills
 🌟 Programming Languages:
 
-Lua
-TypeScript
-JavaScript
+- Lua
+
+- TypeScript
+
+- JavaScript
 
 🌟 Technologies and Frameworks:
 
-React
+- React
 
-Vue.js
+- Vue.js
 
-HTML
+- HTML
 
-CSS,SCSS,SASS
+- CSS,SCSS,SASS
 
-Tailwind
+- Tailwind
 
-Bootstrap
+- Bootstrap
 
-NextJS
+- NextJS
 
-Astro
+- Astro

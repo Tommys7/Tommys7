@@ -3,6 +3,7 @@
 - 🔭 I’m currently working on - https://muahojgrova.vercel.app/ 
 - 🌱 I’m currently learning React.js, Next.js
 
+---
 
 ### About Me
 
@@ -37,3 +38,4 @@ I'm Tomáš, I'm 21 years old and I improve my frontend knowledge every day. My 
 - NextJS
 
 - Astro
+  ---

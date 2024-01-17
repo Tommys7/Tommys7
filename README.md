@@ -43,4 +43,4 @@ I'm Tomáš, I'm 21 years old and I improve my frontend knowledge every day. My 
 
 ## Projects
 
-Here you can find some of the projects I've worked on. I love challenging problems and implementing efficient solutions. My projects range from web sites using HTML/CSS to web applications in React.js.
+[Here]([https://pages.github.com/](https://github.com/Tommys7?tab=repositories)) you can find some of the projects I've worked on during my courses. I love challenging problems and implementing efficient solutions.

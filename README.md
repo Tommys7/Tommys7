@@ -10,7 +10,7 @@ I'm Tomáš, I'm 21 years old and I improve my frontend knowledge every day. My 
 
 
 
-Skills
+- Skills
 
 🌟 Programming Languages:
 
